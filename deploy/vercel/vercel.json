@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/assets/:path*",
+      "destination": "https://cdn.jsdelivr.net/gh/asheynov124-pixel/sidebar@5c20ee50b92872c707f90409f3a103d7d2b0347e/assets/:path*"
+    },
+    {
+      "source": "/favicon.png",
+      "destination": "https://cdn.jsdelivr.net/gh/asheynov124-pixel/sidebar@5c20ee50b92872c707f90409f3a103d7d2b0347e/favicon.png"
+    },
+    {
+      "source": "/icon-180.png",
+      "destination": "https://cdn.jsdelivr.net/gh/asheynov124-pixel/sidebar@5c20ee50b92872c707f90409f3a103d7d2b0347e/icon-180.png"
+    },
+    {
+      "source": "/icon-192.png",
+      "destination": "https://cdn.jsdelivr.net/gh/asheynov124-pixel/sidebar@5c20ee50b92872c707f90409f3a103d7d2b0347e/icon-192.png"
+    },
+    {
+      "source": "/icon-512.png",
+      "destination": "https://cdn.jsdelivr.net/gh/asheynov124-pixel/sidebar@5c20ee50b92872c707f90409f3a103d7d2b0347e/icon-512.png"
+    }
+  ]
+}
